@@ -102,4 +102,5 @@ stack2.push(calcul(pref[i], a, b));
 znach = stack2.get();
 return znach;
 return 0;
+
 }
